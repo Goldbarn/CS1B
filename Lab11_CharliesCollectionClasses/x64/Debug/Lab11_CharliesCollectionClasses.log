@@ -1,0 +1,5 @@
+﻿  charlie.cpp
+  collection.cpp
+  Generating Code...
+C:\Users\Rowbot\Source\Repos\Lab11_CharliesCollectionClasses\collection.cpp(75,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Lab11_CharliesCollectionClasses.vcxproj -> C:\Users\Rowbot\Source\Repos\Lab11_CharliesCollectionClasses\x64\Debug\Lab11_CharliesCollectionClasses.exe
